@@ -1,0 +1,10 @@
+Column Name,Meaning,Data Type
+Location,Neighborhood/area where the property is listed in Nairobi.,string
+Property Type,Listing headline describing property category and sale context.,string
+Bedrooms,Number of bedrooms in the property.,integer
+Bathrooms,Number of bathrooms in the property.,integer
+Size,Property floor area in square meters (m2).,float
+Amenities,Amenities/features listed by the seller or agent.,string
+Price (KES),Quoted asking price in Kenyan shillings.,integer
+Listing Date,Date when the listing was posted on the portal.,string
+Source URL,Direct URL of the listing page used for traceability.,string
